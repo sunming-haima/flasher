@@ -1,7 +1,7 @@
 package cn.com.gome.ztghb.flasher.enums;
 
 /**
- * Created by christLiu on 2015/4/21.
+ * Created by christLiu on 2015/4/21..
  */
 public enum CommandTypeEnum {
     hget, hgetAll, expire, expireAt, ttl, //
